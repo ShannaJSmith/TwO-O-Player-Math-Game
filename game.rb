@@ -49,7 +49,7 @@ class Game
       puts "\n"
     end
 
-    puts "#{@playerA.name} - #{@playerA.life_points}/3 and #{@playerB.name} - #{@playerB.life_points}/3"
+    puts "#{@playerA.name} - #{@playerA.life_points}/3 VS. #{@playerB.name} - #{@playerB.life_points}/3"
 
     change_players
   end
