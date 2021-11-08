@@ -5,13 +5,9 @@ TASK 1 - Extract nouns for classes:
 Read the description above again and extract / write down the nouns that you feel could make for important entities (manifested in the form of classes) to contain (encapsulate) logic as part of this app.
 
 NOUNS: (proctor vs answerer)
--players 
+-game
+-player
 -question
--addition
--score
--result
--turn
--lives
 
 TASK 2 - Write roles for each class:
 Write out a brief paragraph describing the role that class will play in your app.
