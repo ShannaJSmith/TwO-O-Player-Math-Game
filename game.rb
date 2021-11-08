@@ -18,7 +18,7 @@ class Game
     @playerB = Player.new(gets.chomp)
 
     @current_player = @playerA
-    puts "Player A starts!"
+    puts "Player A goes first."
     puts "\n"
 
     play while (@playerA.life_points > 0 && @playerB.life_points > 0)
